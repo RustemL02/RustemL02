@@ -19,3 +19,20 @@
 # About me
 
 I'm Rustem Lecini an Italian student, currently pursuing a Bachelor's degree in Computer Science at the University of Verona. My main interests lie in programming, and I’m always eager to take on new challenges. I am actively learning new technologies to enhance my skills, with a particular focus on cybersecurity and ethical hacking.
+
+# Languages
+
+![Bash](https://skillicons.dev/icons?i=bash)
+![C](https://skillicons.dev/icons?i=c)
+![CSS](https://skillicons.dev/icons?i=css)
+![HTML](https://skillicons.dev/icons?i=html)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![LaTeX](https://skillicons.dev/icons?i=latex)
+![Markdown](https://skillicons.dev/icons?i=markdown)
+![MATLAB](https://skillicons.dev/icons?i=matlab)
+![Octave](https://skillicons.dev/icons?i=octave)
+![PHP](https://skillicons.dev/icons?i=php)
+![PowerShell](https://skillicons.dev/icons?i=powershell)
+![Python](https://skillicons.dev/icons?i=python)
+![R](https://skillicons.dev/icons?i=r)
