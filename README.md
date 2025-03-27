@@ -36,3 +36,24 @@ I'm Rustem Lecini an Italian student, currently pursuing a Bachelor's degree in 
 ![PowerShell](https://skillicons.dev/icons?i=powershell)
 ![Python](https://skillicons.dev/icons?i=python)
 ![R](https://skillicons.dev/icons?i=r)
+
+# Frameworks and libraries
+
+## Frontend
+
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![JQuery](https://skillicons.dev/icons?i=jquery)
+![React](https://skillicons.dev/icons?i=react)
+
+## Backend
+
+![Django](https://skillicons.dev/icons?i=django)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Spring](https://skillicons.dev/icons?i=spring)
+
+## Data Science
+
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![SciKit-Learn](https://skillicons.dev/icons?i=sklearn)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
