@@ -57,3 +57,36 @@ I'm Rustem Lecini an Italian student, currently pursuing a Bachelor's degree in 
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![SciKit-Learn](https://skillicons.dev/icons?i=sklearn)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+
+# Tools and technologies
+
+## Databases
+
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+
+## Editors and IDEs
+
+![CLion](https://skillicons.dev/icons?i=clion)
+![PHPStorm](https://skillicons.dev/icons?i=phpstorm)
+![PyCharm](https://skillicons.dev/icons?i=pycharm)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+## Operating systems
+
+![Linux](https://skillicons.dev/icons?i=linux)
+![Windows](https://skillicons.dev/icons?i=windows)
+
+## Others
+
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![CMake](https://skillicons.dev/icons?i=cmake)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Notion](https://skillicons.dev/icons?i=notion)
+![Obsidian](https://skillicons.dev/icons?i=obsidian)
+![RaspberryPi](https://skillicons.dev/icons?i=raspberrypi)
