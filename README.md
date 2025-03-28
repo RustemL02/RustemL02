@@ -96,8 +96,21 @@ I'm Rustem Lecini an Italian student, currently pursuing a Bachelor's degree in 
 
 # Stats
 
+## General stats
+
 <p align="center">
     <img height=140 src="https://github-readme-stats-rustem.vercel.app/api?username=RustemL02&theme=tokyonight&hide_border=true&custom_title=RustemL02 GitHub stats&show_icons=true&include_all_commits=true&count_private=true" />
     <img height=140 src="https://github-readme-stats-rustem.vercel.app/api/top-langs/?username=RustemL02&theme=tokyonight&hide_border=true&custom_title=Most used languages&show_icons=true&layout=compact" />
     <img height=140 src="https://github-readme-streak-stats-rustem.vercel.app/api/?user=RustemL02&theme=tokyonight&hide_border=true" />
 </p>
+
+## GitHub wrapped
+
+<details close="true">
+    <summary>:ledger: Wrapped year 2024</summary>
+    <img src="img/wrapped/2024.png" />
+</details>
+<details close="true">
+    <summary>:ledger: Wrapped year 2023</summary>
+    <img src="img/wrapped/2023.png" />
+</details>
