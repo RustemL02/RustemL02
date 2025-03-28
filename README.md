@@ -5,14 +5,17 @@
 </p>
 
 <p align="center">
-    <a href="http://discordapp.com/users/486334942167433217">
-        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
     <a href="https://www.linkedin.com/in/RustemL02/">
         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn-white&logoColor=fff" />
     </a>
+    <a href="http://discordapp.com/users/486334942167433217">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
     <a href="https://x.com/RustemL02">
         <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+    </a>
+    <a href="https://x.com/RustemL02">
+        <img src="https://img.shields.io/badge/Hack The Box-%9FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=white" />
     </a>
 </p>
 
@@ -90,3 +93,11 @@ I'm Rustem Lecini an Italian student, currently pursuing a Bachelor's degree in 
 ![Notion](https://skillicons.dev/icons?i=notion)
 ![Obsidian](https://skillicons.dev/icons?i=obsidian)
 ![RaspberryPi](https://skillicons.dev/icons?i=raspberrypi)
+
+# Stats
+
+<p align="center">
+    <img height=140 src="https://github-readme-stats-rustem.vercel.app/api?username=RustemL02&theme=tokyonight&hide_border=true&custom_title=RustemL02 GitHub stats&show_icons=true&include_all_commits=true&count_private=true" />
+    <img height=140 src="https://github-readme-stats-rustem.vercel.app/api/top-langs/?username=RustemL02&theme=tokyonight&hide_border=true&custom_title=Most used languages&show_icons=true&layout=compact" />
+    <img height=140 src="https://github-readme-streak-stats-rustem.vercel.app/api/?user=RustemL02&theme=tokyonight&hide_border=true" />
+</p>
