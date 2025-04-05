@@ -14,7 +14,7 @@
     <a href="https://x.com/RustemL02">
         <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
     </a>
-    <a href="https://x.com/RustemL02">
+    <a href="https://app.hackthebox.com/profile/794324">
         <img src="https://img.shields.io/badge/Hack The Box-%9FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=white" />
     </a>
 </p>
@@ -99,9 +99,9 @@ I'm Rustem Lecini an Italian student, currently pursuing a Bachelor's degree in 
 ## General stats
 
 <p align="center">
-    <img height=140 src="https://github-readme-stats-rustem.vercel.app/api?username=RustemL02&theme=tokyonight&hide_border=true&custom_title=RustemL02 GitHub stats&show_icons=true&include_all_commits=true&count_private=true" />
-    <img height=140 src="https://github-readme-stats-rustem.vercel.app/api/top-langs/?username=RustemL02&theme=tokyonight&hide_border=true&custom_title=Most used languages&show_icons=true&layout=compact" />
-    <img height=140 src="https://github-readme-streak-stats-rustem.vercel.app/api/?user=RustemL02&theme=tokyonight&hide_border=true" />
+    <img height=140 src="https://github-rustem-profile-stats.vercel.app/api?username=RustemL02&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+    <img height=140 src="https://github-rustem-profile-stats.vercel.app/api/top-langs/?username=RustemL02&theme=tokyonight&hide_border=true&show_icons=true&layout=compact" />
+    <img height=140 src="https://github-rustem-profile-streak.vercel.app/api/?user=RustemL02&theme=tokyonight&hide_border=true" />
 </p>
 
 ## GitHub wrapped
