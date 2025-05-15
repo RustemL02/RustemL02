@@ -55,7 +55,7 @@ I'm Rustem Lecini an Italian student, currently pursuing a Bachelor's degree in 
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Spring](https://skillicons.dev/icons?i=spring)
 
-## Data Science
+## Data science
 
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![SciKit-Learn](https://skillicons.dev/icons?i=sklearn)
